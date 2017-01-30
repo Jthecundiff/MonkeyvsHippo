@@ -11,5 +11,7 @@ p{color:#99722c;
 	   text-align: center;}
 li{color:#99722c;}
 a{text-align: right;}
-div{ height: 250px}
+div{ height: 250px
+	position:relative; 
+	left:45px; }
 
