@@ -11,7 +11,7 @@ p{color:#99722c;
 	   text-align: center;}
 li{color:#99722c;}
 a{text-align: right;}
-.gorilla{ background-color: none;	
+.gorilla{ background-color: transparent;	
 	position:relative; 
 	right:45px;
 	padding: 250px;}
